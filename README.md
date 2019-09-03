@@ -26,28 +26,28 @@ If you are interested in machine translation and have any questions, **please fe
 
 <h2 id="mustreads">Must Reads</h2> 
 
-* **Sequence to Sequence Learning with Neural Networks.**
+* **~~Sequence to Sequence Learning with Neural Networks.~~**
 *Ilya Sutskever, Oriol Vinyals, Quoc V. Le.* NIPS 2014. [paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 * **Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.**
 *Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio.* EMNLP 2014. [paper](https://www.aclweb.org/anthology/D14-1179)
 
-* **Neural Machine Translation by Jointly Learning to Align and Translate.**
+* **~~Neural Machine Translation by Jointly Learning to Align and Translate.~~**
 *Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio.* ICLR 2015. [paper](https://arxiv.org/pdf/1409.0473.pdf)
 
-* **Effective Approaches to Attention-based Neural Machine Translation.**
+* **~~Effective Approaches to Attention-based Neural Machine Translation.~~**
 *Minh-Thang Luong, Hieu Pham, Christopher D. Manning.* EMNLP 2015. [paper](http://aclweb.org/anthology/D15-1166)
 
 * **Convolutional Sequence to Sequence Learning.**
 *Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin.*  2017.  [paper](https://arxiv.org/pdf/1705.03122.pdf)
 
-* **Attention Is All You Need.**
+* **~~Attention Is All You Need.~~**
 *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.* NIPS 2017.  [paper](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 
-* **BLEU: a Method for Automatic Evaluation of Machine Translation.**
+* **~~BLEU: a Method for Automatic Evaluation of Machine Translation.~~**
 *Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu.* ACL 2002.  [paper](https://www.aclweb.org/anthology/P02-1040.pdf)
 
-* **Neural Machine Translation of Rare Words with Subword Units.**
+* **~~Neural Machine Translation of Rare Words with Subword Units.~~**
 *Rico Sennrich and Barry Haddow and Alexandra Birch.* ACL 2016.  [paper](http://www.aclweb.org/anthology/P16-1162)
 
 

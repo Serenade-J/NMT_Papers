@@ -383,7 +383,7 @@ If you are interested in machine translation and have any questions, **please fe
 
 #### Non/Semi Autoregressive NMT:
 
-* **Non-Autoregressive Neural Machine Translation.**
+* **~~Non-Autoregressive Neural Machine Translation.~~**
 *Jiatao Gu, James Bradbury, Caiming Xiong, Victor O.K. Li, Richard Socher.* ICLR 2018.  [paper](https://openreview.net/pdf?id=B1l8BtlCb)
 
 * **Semi-Autoregressive Neural Machine Translation.**

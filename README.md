@@ -516,7 +516,7 @@ If you are interested in machine translation and have any questions, **please fe
 * **Robust Neural Machine Translation with Joint Textual and Phonetic Embedding.**
 *Hairong Liu, Mingbo Ma, Liang Huang, Hao Xiong, Zhongjun He.*  ACL 2019.  [paper](https://arxiv.org/pdf/1810.06729.pdf)
 
-* **Robust Neural Machine Translation with Doubly Adversarial Inputs.**
+* **~~Robust Neural Machine Translation with Doubly Adversarial Inputs.~~**
 *Yong Cheng, Lu Jiang, Wolfgang Machereye.*  ACL 2019.  [paper](https://arxiv.org/pdf/1906.02443.pdf)
 
 * **MTNT: A Testbed for Machine Translation of Noisy Text.**
